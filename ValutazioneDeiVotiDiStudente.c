@@ -1,9 +1,7 @@
 #include <stdio.h>
 
-
-
 int main(){
-  
+
   int a;
   printf("Inserisci la media dello studente: ");
   scanf("%d", &a);
